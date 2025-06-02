@@ -1,0 +1,30 @@
+newmtl stone/stn_f12_sand2
+map_Kd textures/stone/stn_f12_sand2.png
+
+newmtl stone/stn_f15_blk1
+map_Kd textures/stone/stn_f15_blk1.png
+
+newmtl stone/stn_f15b_blk1
+map_Kd textures/stone/stn_f15b_blk1.png
+
+newmtl stone/stn_t12_blk1
+map_Kd textures/stone/stn_t12_blk1.png
+
+newmtl stone/stn_w01_blk1
+map_Kd textures/stone/stn_w01_blk1.png
+
+newmtl stone/stn_w07_blk2
+map_Kd textures/stone/stn_w07_blk2.png
+
+newmtl stone/stn_w10_sand1
+map_Kd textures/stone/stn_w10_sand1.png
+
+newmtl stone/stn_w11_blk1
+map_Kd textures/stone/stn_w11_blk1.png
+
+newmtl stone/stn_w12_teal1
+map_Kd textures/stone/stn_w12_teal1.png
+
+newmtl stone/teal1
+map_Kd textures/stone/teal1.png
+
